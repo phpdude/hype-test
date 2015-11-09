@@ -1,0 +1,29 @@
+{
+  "name": "Hype Test",
+  "authors": [
+    "Gaston Pisacco <gpisacco@gmail.com>"
+  ],
+  "description": "Hype Code Audition",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "openlayers": "*",
+    "jquery-ui": "~1.11.4",
+    "components-font-awesome": "~4.4.0",
+    "fancybox": "~2.1.5",
+    "fullcalendar": "~2.4.0",
+    "select2": "~4.0.0",
+    "bower-xcharts": "~0.3.0"
+  }
+}
